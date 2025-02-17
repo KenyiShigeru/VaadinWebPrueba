@@ -14,7 +14,8 @@
         "visualstudioexptteam.vscodeintellicode",
         "pkief.material-icon-theme",
         "Equinusocio.vsc-material-theme",
-        "vscjava.vscode-spring-initializr"
+        "vscjava.vscode-spring-initializr",
+        "vaadin.vaadin-vscode"
     ]
   }
   
