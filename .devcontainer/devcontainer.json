@@ -1,0 +1,20 @@
+{
+    "name": "My Codespace",
+    "image": "mcr.microsoft.com/vscode/devcontainers/java:0-11",
+    "settings": {
+      "editor.fontSize": 14,
+      "editor.tabSize": 2,
+      "files.autoSave": "onFocusChange",
+      "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+        "github.copilot",
+        "vscjava.vscode-java-pack",
+        "pivotal.vscode-spring-boot",
+        "visualstudioexptteam.vscodeintellicode"
+        "pkief.material-icon-theme",
+        "Equinusocio.vsc-material-theme",
+        "vscjava.vscode-spring-initializr"
+    ]
+  }
+  
